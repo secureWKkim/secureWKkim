@@ -1,4 +1,5 @@
 ### Hi there 👋
+매주 weekly challenge 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
 
 <!--
