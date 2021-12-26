@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool)
 
 <!--
 **secureWKkim/secureWKkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
