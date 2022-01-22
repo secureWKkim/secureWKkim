@@ -1,7 +1,10 @@
 ### Hi there 👋
 (bi)weekly challenge 참여중<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
-
+<br><br>
+백준 - 랭작 안함
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={abgkf6})](https://solved.ac/{abgkf6})
 <!--
 **secureWKkim/secureWKkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
