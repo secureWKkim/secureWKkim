@@ -2,7 +2,7 @@
 (bi)weekly challenge 참여중<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
 <br><br>
-백준 - 랭작 안함<br>
+백준 - 랭작 안함, 브론즈 안품<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
 <!--
