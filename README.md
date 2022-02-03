@@ -5,6 +5,8 @@
 백준 - 랭작 안함, 브론즈 안품<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
+<br><br>
+플머스 자체 카운트(푼 문제수): 2
 <!--
 **secureWKkim/secureWKkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
