@@ -1,4 +1,4 @@
-### Hi there 👋<br><br>
+### Hi there 👋<br>
 dr.meteor 라고 합니다.<br>처음엔 아버지께서 좋아하시는 노래인 창모의 meteor 를 따서 닉네임을 지었는데, 친구들이 톡톡 튀는 매력과 잘 어울린다 하더라고요.<br>거기에 한 친구가 저의 박학다식한 면을 본따 (포켓몬 오박사가 아닌) 메테오 박사라 부르더라고요. <br>다른 친구들도 그렇게 불러주면서 저의 genuine 닉네임으로 거듭나게 됐습니다.<br><br>
 (bi)weekly challenge 참여중<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
