@@ -7,7 +7,7 @@ dr.meteor 라고 합니다.<br>처음엔 아버지께서 좋아하시는 노래�
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
 <br><br>
-플머스 자체 카운트(푼 문제수): 3<br><br>
+플머스 자체 카운트(푼 문제수): 4<br><br>
 <!--
 **secureWKkim/secureWKkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
