@@ -5,7 +5,6 @@ dr.meteor🌠 입니다.<br>처음엔 아버지께서 좋아하시는 창모의 
 <br><br>
 
 ### Algorithm⚙️
-(bi)weekly challenge 참여중<br>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
 <br><br>
 백준 - 랭작 안함, 브론즈 안품<br>
@@ -13,6 +12,8 @@ dr.meteor🌠 입니다.<br>처음엔 아버지께서 좋아하시는 창모의 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
 <br><br>
 플머스 자체 카운트(푼 문제수): 4<br><br>
+
+- Almost every book that I read: https://jff.me/@%ED%95%98%EB%84%A4%EB%AA%A8%EB%84%A4
 <!--
 **secureWKkim/secureWKkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
