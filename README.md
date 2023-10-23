@@ -5,9 +5,10 @@ dr.meteor🌠 입니다.<br>처음엔 아버지께서 좋아하시는 창모의 
 <br><br>
 
 ### Algorithm⚙️
+- LeetCode
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=secureWKkim)
 <br><br>
-백준 - 랭작 안함, 브론즈 안품<br>
+- 백준: 랭작 안함, 브론즈 안품
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
 <br><br>
