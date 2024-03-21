@@ -12,7 +12,7 @@ dr.meteor🌠 입니다.<br>처음엔 아버지께서 좋아하시는 창모의 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=abgkf6)](https://solved.ac/abgkf6)
 <br><br>
-- 플머스 자체 카운트(푼 문제수): 5<br><br>
+- 플머스 자체 카운트(푼 문제수): 6<br><br>
 
 - Almost every book that I read: https://jff.me/@%ED%95%98%EB%84%A4%EB%AA%A8%EB%84%A4
 <!--
