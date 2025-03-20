@@ -7,6 +7,10 @@
 <p align="center">
 <img width="443" alt="Image" src="https://github.com/user-attachments/assets/edad7f8d-63c4-49c9-8714-1c429868bb2f" /></p>
 
+### My recent Project Management - [Pale Blue Dot](https://github.com/orgs/97zPaleBlueDot/projects/1/views/1)
+<p align="center">
+<img width="642" alt="Image" src="https://github.com/user-attachments/assets/94d06a2a-44f2-4352-9585-8b96a7b191b2" /></p>
+
 ---
 ### 🔑 Key Features
 <p align="center">
@@ -21,7 +25,7 @@
 - Infra :Docker, AWS, GCP
 - DataScience: numpy, pytorch, AutoML, dask, ...
 - Server: Django, SpringBoot
-<br><br>
+<br>
 
 ### ⚙️ Algorithm
 - LeetCode<br>
