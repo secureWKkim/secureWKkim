@@ -1,13 +1,13 @@
 # 👋🏻 Wonkyung Kim - Data Engineer / PM
 ## 🌟 Projects
-### My recent full-stack DE Website - [자린고비](https://github.com/97zPaleBlueDot/Youtube-Recipe-Search)
+### 🍱 My recent full-stack DE Website - [자린고비](https://github.com/97zPaleBlueDot/Youtube-Recipe-Search)
 ![Image](https://github.com/user-attachments/assets/011a7e13-b214-4063-af49-2f1707051537)<br>
 
-### My recent Data Dashboard - [Eco Data Flow](https://github.com/EcoDataFlow/EcoDataFlow-airflow-repo)
+### 🏭 My recent Data Dashboard - [Eco Data Flow](https://github.com/EcoDataFlow/EcoDataFlow-airflow-repo)
 <p align="center">
 <img width="443" alt="Image" src="https://github.com/user-attachments/assets/edad7f8d-63c4-49c9-8714-1c429868bb2f" /></p>
 
-### My recent Project Management - [Pale Blue Dot](https://github.com/orgs/97zPaleBlueDot/projects/1/views/1)
+### 🧩 My recent Project Management - [Pale Blue Dot](https://github.com/orgs/97zPaleBlueDot/projects/1/views/1)
 <p align="center">
 <img width="642" alt="Image" src="https://github.com/user-attachments/assets/94d06a2a-44f2-4352-9585-8b96a7b191b2" /></p>
 
