@@ -1,5 +1,5 @@
 # 👋🏻 Wonkyung Kim - Data Engineer / PM
-
+## 🌟 Projects
 ### My recent full-stack DE Website - [자린고비](https://github.com/97zPaleBlueDot/Youtube-Recipe-Search)
 ![Image](https://github.com/user-attachments/assets/011a7e13-b214-4063-af49-2f1707051537)<br>
 
@@ -12,12 +12,12 @@
 <img width="642" alt="Image" src="https://github.com/user-attachments/assets/94d06a2a-44f2-4352-9585-8b96a7b191b2" /></p>
 
 ---
-### 🔑 Key Features
+## 🔑 Key Features
 <p align="center">
 <img width="642" alt="Image" src="https://github.com/user-attachments/assets/68eefc9b-7f69-4cde-bc01-6cb1c43c6d9c" /></p>
 <br>
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 - Language: Python, Java, SQL, C++, Rust, ...
 - Storage: PostgreSQL, RedShift, MySQL, ...
 - Scheduling: Airflow
@@ -27,7 +27,7 @@
 - Server: Django, SpringBoot
 <br>
 
-### ⚙️ Algorithm
+## ⚙️ Algorithm
 - LeetCode<br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/secureWKkim?theme=wtf&font=patrick_hand&ext=contest)
 <br>
