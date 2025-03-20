@@ -1,5 +1,5 @@
 # 👋🏻 Wonkyung Kim - Data Engineer / PM
-"These days, I'm exploring career paths where I can fully utilize my strengths in diverse ideation and management."<br>
+*"These days, I'm exploring career paths where I can fully utilize my strengths in diverse ideation and management."* <br>
 
 ## 🔑 Key Features
 <p align="center">
