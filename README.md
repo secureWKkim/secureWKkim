@@ -1,4 +1,4 @@
-# 👋🏻 Wonkyung Kim - Data Engineer / PM
+# 👋🏻 Wonkyung Kim - Software Engineer / PM
 *"These days, I'm exploring career paths where I can fully utilize my strengths in diverse ideation and management."* <br>
 
 ## 🔑 Key Features
