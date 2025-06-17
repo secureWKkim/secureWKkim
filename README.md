@@ -1,5 +1,4 @@
-# 👋🏻 Wonkyung Kim - Software Engineer / PM
-*"These days, I'm exploring career paths where I can fully utilize my strengths in diverse ideation and management."* <br>
+# 👋🏻 Wonkyung Kim - Software Engineer + Indie Game Designer
 
 ## 🔑 Key Features
 <p align="center">
