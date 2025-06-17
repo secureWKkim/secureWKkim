@@ -1,4 +1,4 @@
-# 👋🏻 Wonkyung Kim - Software Engineer + Indie Game Designer
+# 👋🏻 Wonkyung Kim - SW/IT Engineer + Indie Game Designer
 
 ## 🔑 Key Features
 <p align="center">
